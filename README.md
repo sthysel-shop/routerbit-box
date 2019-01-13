@@ -1,5 +1,7 @@
 # Routerbit Box
 
+![Side Open](pics/side-open.jpg)
+
 ![Front](pics/front.jpg) 
 
 ![Front Open](pics/front-open.jpg)
@@ -8,7 +10,6 @@
 
 ![Side](pics/side.jpg) 
 
-![Side Open](pics/side-open.jpg)
 
 # Notes
 
