@@ -1,10 +1,14 @@
 # Routerbit Box
 
-![Front](front.jpg) 
-![Front Open](front-open.jpg)
-![Open](open.jpg)
-![Side](side.jpg) 
-![Side Open](side-open.jpg)
+![Front](pics/front.jpg) 
+
+![Front Open](pics/front-open.jpg)
+
+![Open](pics/open.jpg)
+
+![Side](pics/side.jpg) 
+
+![Side Open](pics/side-open.jpg)
 
 # Notes
 
