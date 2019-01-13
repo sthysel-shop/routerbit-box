@@ -12,6 +12,6 @@
 
 # Notes
 
-Dimensions
+Box: 295x255x80 12mm ply
 
-Material 9mm ply
+Bit holder strips: 19mm ply
